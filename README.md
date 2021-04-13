@@ -8,3 +8,11 @@ Fizemos 2 testes no arquivo feature ( um teste com um cep válido e outro teste 
 
 
 Temos uma classe dentro \src\test\java\br\com\ceps\restAssured\Testes que somente estava com restAssured e com três testes nele.
+
+
+@grupo 
+Marilia Gabriela Pires Matos 
+Andrade Alves Sampaio
+David Stefano Aranda da Silva
+Irai Fernandes Daniele
+Paolo Angelo Martins Zilioti
