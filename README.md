@@ -1,6 +1,6 @@
 Projeto baseado em junit,cucumber e restAssured
 
-Para rodar o cucumber , vá até a pasta de runner e rode a Classe Runner.java
+Para rodar o cucumber , vá até o pacote runner e rode a classe Runner.java
 
 Utilizamos uma api de endereços , onde passamos um cep e ela retorna o logradouro , bairro , cidade, estado e outras informações daquele cep
 
